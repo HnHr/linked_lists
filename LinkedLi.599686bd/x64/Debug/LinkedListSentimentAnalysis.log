@@ -1,0 +1,3 @@
+﻿  LinkedListSentimentAnalysis.cpp
+C:\Users\hassa\Desktop\LINKED LIST PART 1\part 1\LinkedListSentimentAnalysis.cpp(108,49): warning C4101: 'e': unreferenced local variable
+  LinkedListSentimentAnalysis.vcxproj -> C:\Users\hassa\Desktop\LINKED LIST PART 1\part 1\x64\Debug\LinkedListSentimentAnalysis.exe
